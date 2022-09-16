@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 541 866" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_207"><path d="M396.2,144.7V85.9h94.3v58.8Z"/></clipPath>
+<clipPath id="c1_207"><path d="M332.5,178.6V138.1h53.2v40.5Z"/></clipPath>
+<clipPath id="c2_207"><path d="M332.5,219V178.5h53.2V219Z"/></clipPath>
+<clipPath id="c3_207"><path d="M403.5,261.9V212h84.9v49.9Z"/></clipPath>
+<clipPath id="c4_207"><path d="M403.5,322.1V277.3H491v44.8Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_207{
+fill: #FFFFFF;
+}
+.g1_207{
+fill: #939598;
+}
+.g2_207{
+fill: #818385;
+}
+.g3_207{
+fill: #9C9B9B;
+}
+.g4_207{
+fill: none;
+stroke: #ECE70E;
+stroke-width: 1.486;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_207{
+fill: none;
+stroke: #FFF200;
+stroke-width: 1.486;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_207)" preserveAspectRatio="none" x="396" y="84" width="95" height="62" xlink:href="img/1.jpg"/>
+<image clip-path="url(#c1_207)" preserveAspectRatio="none" x="332" y="138" width="54" height="41" xlink:href="img/2.jpg"/>
+<image clip-path="url(#c2_207)" preserveAspectRatio="none" x="332" y="178" width="54" height="41" xlink:href="img/3.jpg"/>
+<image clip-path="url(#c3_207)" preserveAspectRatio="none" x="403" y="212" width="86" height="50" xlink:href="img/4.jpg"/>
+<path d="M403.5,378.9h72.6V329.1H403.5v49.8Z" class="g0_207"/>
+<path d="M403.5,378.9h72.6V329.1H403.5v49.8Z" class="g0_207"/>
+<path d="M406.7,378.1h68.8V329.5H406.7v48.6Z" class="g1_207"/>
+<path d="M417.8,373.7h42.4V336.1H417.8v37.6Z" class="g2_207"/>
+<path d="M410.4,374.4h60.4V333.2H410.4v41.2Z" class="g3_207"/>
+<path d="M470.1,374.4h-59V334h59v40.4Z" class="g4_207"/>
+<path d="M411.1,354.2L431,374.1l19.9,-19.9L431,334.3l-19.9,19.9Zm18.9,0l19.9,19.9l19.9,-19.9L449.9,334.3L430,354.2Zm19.8,19.7L410.9,335m59.4,38.9L431.5,335m39,0l-38.9,38.9M449.3,335l-38.8,38.9" class="g5_207"/>
+<image clip-path="url(#c4_207)" preserveAspectRatio="none" x="403" y="277" width="89" height="47" xlink:href="img/5.jpg"/>
+</svg>
